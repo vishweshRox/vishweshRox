@@ -1,8 +1,6 @@
 # Hi, I’m Vishwesh 👋
 
-I'm an undergraduate student at the University of Massachusetts Amherst studying Computer Science and Pure Mathematics!
-
-Click [here](https://your-website.com) to check out my website!.
+I'm an undergraduate student at the University of Massachusetts Amherst studying Computer Science and Discrete Mathematics!
 
 ## Projects that I've heavily contributed to but don't own:
 
