@@ -1,6 +1,6 @@
 # Hi, I’m Vishwesh 👋
 
-I'm an undergraduate student at the University of Massachusetts Amherst studying Computer Science and Discrete Mathematics!
+I'm a graduate student at Carnegie Mellon University. Previously, I was an undergraduate student at the University of Massachusetts Amherst studying Computer Science and Discrete Mathematics!
 
 ## Projects that I've heavily contributed to but don't own:
 
@@ -10,4 +10,4 @@ I'm an undergraduate student at the University of Massachusetts Amherst studying
 
 If you want to check out some of my other work, click [here](https://github.com/vishweshRox?tab=repositories) to go to the *Repositories* tab.
 
-If you'd like to get in touch, you can reach me [first letter of my name] palani [at] umass [dot] edu!
+If you'd like to get in touch, you can reach me [first name, but remove the last letter] [first letter of my last name] [at] andrew [dot] cmu [dot]  edu!
